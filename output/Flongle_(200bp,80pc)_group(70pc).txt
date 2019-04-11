@@ -1,0 +1,29 @@
+Gene	MinION	GridION
+"Bifidobacteria intrinsic ileS conferring resistance to mupirocin"	6	2
+"PC1 beta-lactamase (blaZ)"	1	NA
+"aminocoumarin resistant alaS"	1	NA
+APH(3')-IIIa	NA	1
+CRP	NA	1
+H-NS	NA	1
+dfrE	19	19
+fusB	1	NA
+fyuA	1	1
+group AAC-APH-1	2	2
+group ANT-aad-1	1	1
+group Erm-4	56	41
+group Fos-3	NA	1
+group OXY-CTX-Sed-1	6	25
+group bmr-eme-1	38	38
+group cat-1	44	48
+group dfr-14	NA	1
+group mdt-mds-acr-mtr-1	NA	1
+group mec-2	NA	3
+group mec-OXA-1	NA	1
+group mex-acr-1	1	NA
+group mph-2	2	1
+group oqx-mex-amr-1	1	2
+group qac-2	6	4
+group tet-4	54	54
+group tet-6	48	52
+lsaA	29	38
+sat-4	NA	1

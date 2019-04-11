@@ -1,0 +1,86 @@
+Gene	P10N_MinION	P10N_Illumina	P10R_MinION	P10R_Illumina	P10V_MinION	P10V_Illumina
+"Bifidobacteria intrinsic ileS conferring resistance to mupirocin"	10	177	NA	NA	NA	NA
+"PC1 beta-lactamase (blaZ)"	4	13	NA	7	NA	NA
+"Streptomyces rishiriensis parY mutant conferring resistance to aminocoumarin"	NA	1	NA	NA	NA	NA
+"aminocoumarin resistant alaS"	3	60	1	66	3	63
+"aminocoumarin resistant cysB"	NA	NA	NA	NA	NA	4
+APH(3')-IIIa	NA	NA	NA	1	NA	NA
+CRP	2	17	NA	9	1	21
+FosA2	NA	5	3	8	NA	NA
+H-NS	NA	9	2	5	2	12
+OXA-2	88	26	NA	6	26	19
+PmrB	NA	NA	NA	NA	NA	4
+PmrC	NA	NA	NA	NA	2	3
+PmrE	NA	NA	NA	NA	1	6
+PmrF	NA	NA	NA	NA	NA	10
+arnA	NA	18	NA	NA	1	26
+bacA	NA	1	NA	15	NA	9
+baeS	NA	NA	NA	NA	NA	3
+cpxA	NA	18	NA	7	NA	21
+cpxR	NA	8	NA	5	NA	4
+dfrA14	NA	NA	NA	NA	2	3
+dfrE	NA	NA	NA	NA	NA	6
+emrB	1	57	1	28	NA	50
+emrD	NA	NA	NA	NA	NA	13
+emrE	NA	NA	NA	NA	NA	2
+emrR	NA	8	2	45	NA	5
+emrY	NA	NA	NA	NA	NA	8
+evgA	NA	NA	NA	NA	NA	3
+evgS	NA	NA	NA	NA	1	17
+fyuA	NA	NA	NA	NA	6	53
+gadE	NA	NA	NA	NA	NA	1
+gadW	NA	NA	NA	NA	1	6
+group AAC-ANT-1	NA	NA	NA	NA	1	NA
+group AAC-APH-1	2	7	NA	12	NA	NA
+group ANT-aad-1	NA	NA	NA	1	NA	NA
+group CMY-LAT-CFE-ACT-MIR-1	2	21	40	130	NA	4
+group Fos-3	17	23	NA	NA	9	20
+group Qnr-2	NA	NA	NA	NA	NA	1
+group SHV-LEN-OKP-1	30	53	NA	NA	7	32
+group aad-1	NA	NA	NA	NA	1	4
+group acr-mex-1	NA	NA	NA	NA	1	8
+group acr-nal-1	NA	NA	NA	NA	NA	3
+group acr-sme-1	1	25	2	46	NA	11
+group bae-sme-1	NA	4	NA	7	NA	2
+group bmr-eme-1	NA	NA	NA	NA	NA	17
+group ceo-ade-acr-1	NA	7	NA	NA	2	33
+group ceo-mdt-1	NA	NA	NA	NA	NA	5
+group dfr-14	1	4	NA	8	NA	NA
+group emr-5	NA	NA	NA	NA	3	6
+group gad-adi-1	NA	NA	NA	NA	NA	6
+group mar-ram-1	NA	6	2	21	NA	1
+group mdt-bcr-1	NA	NA	NA	NA	1	6
+group mdt-mdf-1	NA	12	NA	20	NA	17
+group mdt-mds-acr-mtr-1	NA	84	NA	165	2	62
+group mdt-mex-sme-1	NA	57	NA	75	1	90
+group mec-2	2	21	NA	30	NA	NA
+group mec-OXA-1	2	14	NA	12	NA	1
+group mex-acr-1	4	201	25	386	7	144
+group mex-sme-1	NA	43	NA	24	NA	32
+group mph-2	NA	NA	NA	4	NA	NA
+group oqx-mex-1	16	75	1	53	11	55
+group oqx-mex-amr-1	43	295	1	203	31	182
+group qac-2	NA	2	NA	1	1	1
+group tet-4	6	29	4	29	NA	1
+group tet-6	NA	NA	NA	NA	2	33
+kdpE	NA	3	NA	4	1	4
+leuO	NA	NA	NA	NA	1	6
+lsaA	NA	NA	NA	NA	5	21
+lsaE	NA	NA	NA	NA	NA	1
+mdtA	NA	4	NA	24	1	11
+mdtD	NA	4	NA	9	NA	15
+mdtE	NA	NA	NA	NA	1	13
+mdtG	NA	NA	NA	NA	2	7
+mdtH	NA	NA	NA	NA	2	3
+mdtK	NA	NA	NA	NA	NA	1
+mdtO	NA	NA	NA	NA	1	11
+mdtP	NA	NA	NA	NA	NA	6
+mfd	NA	45	NA	63	1	46
+mgrA	1	6	NA	3	NA	NA
+norA	2	15	1	8	NA	NA
+patA	NA	69	4	76	NA	54
+robA	5	17	34	69	NA	5
+sat-4	NA	NA	NA	1	NA	NA
+sul1	NA	NA	NA	NA	NA	6
+tolC	NA	5	NA	NA	NA	14
+vgaC	21	11	1	5	NA	NA

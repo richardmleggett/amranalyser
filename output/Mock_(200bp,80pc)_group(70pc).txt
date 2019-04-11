@@ -1,0 +1,26 @@
+Gene	MockInsilico8	IsolateMinION	IsolateIllumina	MockRef
+group OXA-1	1	NA	NA	1
+group SHV-LEN-OKP-1	1	1	1	NA
+CRP	1	1	1	NA
+H-NS	1	1	1	NA
+cpxA	NA	1	1	NA
+cpxR	NA	1	1	NA
+emrB	NA	1	1	NA
+emrR	NA	1	1	NA
+group mar-ram-1	NA	1	1	NA
+group mdt-mds-acr-mtr-1	NA	1	1	NA
+group mex-acr-1	1	1	1	NA
+group oqx-mex-1	1	1	1	NA
+mdtD	NA	NA	1	NA
+patA	NA	1	1	NA
+group oqx-mex-amr-1	1	1	1	NA
+group mdt-mex-sme-1	1	1	1	NA
+group acr-sme-1	NA	1	1	NA
+group bae-sme-1	NA	1	1	NA
+"aminocoumarin resistant alaS"	1	1	1	NA
+group cat-1	NA	NA	NA	1
+mfd	NA	1	1	NA
+group Fos-3	1	1	1	NA
+vgaC	1	1	1	NA
+group tet-14	NA	NA	NA	1
+sul2	1	NA	NA	1

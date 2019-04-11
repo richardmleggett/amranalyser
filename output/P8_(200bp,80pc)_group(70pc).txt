@@ -1,0 +1,27 @@
+Gene	P8	IsolateMinION	IsolateIllumina
+"aminocoumarin resistant alaS"	1	1	1
+CRP	1	1	1
+H-NS	3	1	1
+cpxA	NA	1	1
+cpxR	NA	1	1
+emrB	NA	1	1
+emrR	NA	1	1
+group Fos-3	16	1	1
+group SHV-LEN-OKP-1	24	1	1
+group aad-1	8	NA	NA
+group acr-sme-1	NA	1	1
+group bae-sme-1	NA	1	1
+group cat-1	6	NA	NA
+group dfr-3	6	NA	NA
+group mar-ram-1	NA	2	2
+group mdt-mds-acr-mtr-1	1	1	2
+group mdt-mex-sme-1	1	2	2
+group mex-acr-1	3	1	1
+group oqx-mex-1	28	1	1
+group oqx-mex-amr-1	44	1	1
+group tet-3	3	NA	NA
+mdtD	NA	NA	1
+mfd	NA	1	1
+patA	2	1	1
+sat-1	5	NA	NA
+vgaC	31	1	1
